@@ -1,114 +1,114 @@
 # CSS-battle-answer
 
-<img src="banner1.jpg">
+<img src="banner1.jpg" width="500px">
 
 Partial non-optimal solution of [CSSbattle](https://cssbattle.dev/) 
 
 
 ## LIST
 
-+ [Target #1 - Simply Square](./Simply-Square.md)
++ [#1 - Simply Square](./Simply-Square.md)
 
-+ [Target #2 - Carrom](./Carrom.md)
++ [#2 - Carrom](./Carrom.md)
 
-+ [Target #3 - Push Button](./Push-Button.md)
++ [#3 - Push Button](./Push-Button.md)
 
-+ [Target #4 - Ups n Downs](./Ups-n-Downs.md)
++ [#4 - Ups n Downs](./Ups-n-Downs.md)
 
-+ [Target #5 - Acid Rain](./Acid-Rain.md)
++ [#5 - Acid Rain](./Acid-Rain.md)
 
-+ [Target #6 - Missing Slice](./Missing-Slice.md)
++ [#6 - Missing Slice](./Missing-Slice.md)
 
-+ [Target #7 - Leafy Trail](./Leafy-Trail.md)
++ [#7 - Leafy Trail](./Leafy-Trail.md)
 
-+ [Target #8 - Forking Crazy](./Forking-Crazy.md)
++ [#8 - Forking Crazy](./Forking-Crazy.md)
 
-+ [Target #9 - Tesseract](./Tesseract.md)
++ [#9 - Tesseract](./Tesseract.md)
 
-+ [Target #10 - Cloaked Spirits](./Cloaked-Spirits.md)
++ [#10 - Cloaked Spirits](./Cloaked-Spirits.md)
 
-+ [Target #11 - Eye of Sauron](./Eye-of-Sauron.md)
++ [#11 - Eye of Sauron](./Eye-of-Sauron.md)
 
-+ [Target #12 - Wiggly Moustache](./Wiggly-Moustache.md)
++ [#12 - Wiggly Moustache](./Wiggly-Moustache.md)
 
-+ [Target #13 - Totally Triangle](./Totally-Triangle.md)
++ [#13 - Totally Triangle](./Totally-Triangle.md)
 
-+ [Target #14 - Web Maker Logo](./Web-Maker-Logo.md)
++ [#14 - Web Maker Logo](./Web-Maker-Logo.md)
 
-+ [Target #15 - Overlap](./Overlap.md)
++ [#15 - Overlap](./Overlap.md)
 
-+ [Target #16 - Eye of the Tiger](./Eye-of-the-Tiger.md)
++ [#16 - Eye of the Tiger](./Eye-of-the-Tiger.md)
 
-+ [Target #17 - Fidget Spinner](./Fidget-Spinner.md)
++ [#17 - Fidget Spinner](./Fidget-Spinner.md)
 
-+ [Target #18 - Matrix](./Matrix.md)
++ [#18 - Matrix](./Matrix.md)
 
-+ [Target #19 - Cube](./Cube.md)
++ [#19 - Cube](./Cube.md)
 
-+ [Target #20 - Ticket](./Ticket.md)
++ [#20 - Ticket](./Ticket.md)
 
-+ [Target #21 - SitePoint Logo.md](./SitePoint-Logo.md)
++ [#21 - SitePoint Logo.md](./SitePoint-Logo.md)
 
-+ [Target #22 - Cloud](./Cloud.md)
++ [#22 - Cloud](./Cloud.md)
 
-+ [Target #23 - Boxception](./Boxception.md)
++ [#23 - Boxception](./Boxception.md)
 
-+ [Target #24 - Switches.md](./Switches.md)
++ [#24 - Switches.md](./Switches.md)
 
-+ [Target #25 - Blossom.md](./Blossom.md)
++ [#25 - Blossom.md](./Blossom.md)
 
-+ [Target #26 - Smiley](./Smiley.md)
++ [#26 - Smiley](./Smiley.md)
 
-+ [Target #27 - Lock Up](./LockUp.md)
++ [#27 - Lock Up](./LockUp.md)
 
-+ [Target #28 - Cups & Balls](./Cups-Balls.md)
++ [#28 - Cups & Balls](./Cups-Balls.md)
 
-+ [Target #29 - Suffocate](./Suffocate.md)
++ [#29 - Suffocate](./Suffocate.md)
 
-+ [Target #30 - Horizon](./Horizon.md)
++ [#30 - Horizon](./Horizon.md)
 
-+ [Target #31 - Equals](./Equals.md)
++ [#31 - Equals](./Equals.md)
 
-+ [Target #32 - Band-aid](./Band-aid.md)
++ [#32 - Band-aid](./Band-aid.md)
 
-+ [Target #33 - Birdie](./Birdie.md)
++ [#33 - Birdie](./Birdie.md)
 
-+ [Target #34 - Christmas Tree](./Christmas-Tree.md)
++ [#34 - Christmas Tree](./Christmas-Tree.md)
 
-+ [Target #35 - Ice Cream](./Ice-Cream.md)
++ [#35 - Ice Cream](./Ice-Cream.md)
 
-+ [Target #36 - Interleaved](./Interleaved.md)
++ [#36 - Interleaved](./Interleaved.md)
 
-+ [Target #37 - Tunnel](./Tunnel.md)
++ [#37 - Tunnel](./Tunnel.md)
 
-+ [Target #38 - Not Simply Square](./Not-Simply-Square.md)
++ [#38 - Not Simply Square](./Not-Simply-Square.md)
 
-+ [Target #39 - Sunset](./Sunset.md)
++ [#39 - Sunset](./Sunset.md)
 
-+ [Target #40 - Letter B](./Letter-B.md)
++ [#40 - Letter B](./Letter-B.md)
 
-+ [Target #41 - Fox Head](./Fox-Head.md)
++ [#41 - Fox Head](./Fox-Head.md)
 
-+ [Target #42 - Baby](./Baby.md)
++ [#42 - Baby](./Baby.md)
 
-+ [Target #43 - Wrench](./Wrench.md)
++ [#43 - Wrench](./Wrench.md)
 
-+ [Target #44 - Stripes](./Stripes.md)
++ [#44 - Stripes](./Stripes.md)
 
-+ [Target #45 - Magical Tree](./Magical-Tree.md)
++ [#45 - Magical Tree](./Magical-Tree.md)
 
-+ [Target #46 - Mountains](./Mountains.md)
++ [ #46 - Mountains](./Mountains.md)
 
-+ [Target #47 - Corona Virus](./Corona-Virus.md)
++ [#47 - Corona Virus](./Corona-Virus.md)
 
-+ [Target #48 - Wash You Hands.md](./Wash-Your-Hands.md)
++ [#48 - Wash You Hands.md](./Wash-Your-Hands.md)
 
-+ [Target #49 - Stay at Home](./Stay-at-Home.md)
++ [#49 - Stay at Home](./Stay-at-Home.md)
 
-+ [Target #50 - Use Hand Sanitizer](./Use-Hand-Sanitizer.md)
++ [#50 - Use Hand Sanitizer](./Use-Hand-Sanitizer.md)
 
-+ [Target #51 - Wear a Mask](./Wear-a-Mask.md)
++ [#51 - Wear a Mask](./Wear-a-Mask.md)
 
-+ [Target #52 - Break the Chain](./Break-the-Chain.md)
++ [#52 - Break the Chain](./Break-the-Chain.md)
 
-+ [Target #53 - Pastel Logo](./Pastel-Logo.md)
++ [ #53 - Pastel Logo](./Pastel-Logo.md)
