@@ -1,5 +1,7 @@
 # CSS-battle-answer
 
+<img src="banner1.jpg">
+
 Partial non-optimal solution of [CSSbattle](https://cssbattle.dev/) 
 
 
