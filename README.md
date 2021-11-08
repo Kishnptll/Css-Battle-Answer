@@ -2,7 +2,7 @@
 
 <img src="banner1.jpg" width="500px">
 
-Partial non-optimal solution of [CSSbattle](https://cssbattle.dev/) 
+### Partial non-optimal solution of  [CSSbattle](https://cssbattle.dev/)
 
 
 ## LIST
